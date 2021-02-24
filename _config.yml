@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: test
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
 name: Ben Centra
