@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me 
 permalink: /about/
 main_nav: true
 ---
@@ -13,6 +13,7 @@ This page is a good place to write about yourself, your project, your product, o
 
 You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
+안녕하세요. 이건 제 블로그입니다.
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
 [jekyll]: https://github.com/jekyll/jekyll

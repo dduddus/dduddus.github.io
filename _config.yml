@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: test
-subtitle: "sub title test"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Yeongyeon Na's blog
+subtitle: "A blog for machine learning and optimization "
+email: duddus1514@gmail.com
+name: Yeongyeon Na
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  I'm interested in machine learning and optimization specifically sequential data.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
